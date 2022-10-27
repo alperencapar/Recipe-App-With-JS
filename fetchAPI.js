@@ -6,8 +6,8 @@ class FetchAPI{
         // const APP_KEY = '302a74a4f73d8b90d40f58031f17c978'
 
         this.baseURL = `https://api.edamam.com/search`;
-        this.APP_ID = "";
-        this.APP_KEY = "";
+        this.APP_ID = "a38f0eb3";
+        this.APP_KEY = "302a74a4f73d8b90d40f58031f17c978";
         
     }
 
